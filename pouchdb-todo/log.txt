@@ -1,0 +1,15 @@
+[Sun, 18 Dec 2022 19:06:38 GMT] [info] [<0.000.0>] pouchdb-server has started on http://127.0.0.1:9000/
+[Sun, 18 Dec 2022 19:06:38 GMT] [info] [<0.000.0>] navigate to http://127.0.0.1:9000/_utils for the Fauxton UI.
+[Sun, 18 Dec 2022 19:07:40 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/ 304
+[Sun, 18 Dec 2022 19:07:40 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/css/styles-a9623008fc27e79da2388441deeacfab.css 304
+[Sun, 18 Dec 2022 19:07:40 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/js/bundle-34997e32896293a1fa5d71f79eb1b4f7.js 304
+[Sun, 18 Dec 2022 19:07:41 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_session 304
+[Sun, 18 Dec 2022 19:07:41 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_session 304
+[Sun, 18 Dec 2022 19:07:41 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET / 200
+[Sun, 18 Dec 2022 19:07:41 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/img/pouchdb-site.png 304
+[Sun, 18 Dec 2022 19:07:41 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/fonts/fauxtonicon5.woff 304
+[Sun, 18 Dec 2022 19:07:41 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?_=1671390461001 200
+[Sun, 18 Dec 2022 19:07:41 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?startkey=%22%22&endkey=%22%E9%A6%99%22&limit=30&_=1671390461002 200
+[Sun, 18 Dec 2022 19:07:41 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_replicator?_=1671390461003 200
+[Sun, 18 Dec 2022 19:07:41 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_users?_=1671390461004 200
+[Sun, 18 Dec 2022 19:07:41 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/fonts/fontawesome-webfont.woff 304
