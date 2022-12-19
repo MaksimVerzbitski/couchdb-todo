@@ -1,5 +1,4 @@
 # couchdb-todo
-==============================================
 
 CRUD TODO application With PouchDB and CouchDB
 ==============================================
