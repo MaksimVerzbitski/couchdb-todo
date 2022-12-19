@@ -1,10 +1,25 @@
-PouchDB "Getting Started" Todo app (complete)
-============================
+*===============================================
+* CRUD TODO application With PouchDB and CouchDB
+* ==============================================
+* Creating, Reading, Updating and Deleting notes
+* ==============================================
+* To start it running you need:
+* CouchDB   =======> https://couchdb.apache.org/
+* ==============================================
+* While installing create a user in couchdb 
+* ==============================================
+* login and verify CouchDB installation in 
+* http://localhost:5984/_utils/#/verifyinstall
+* ==============================================
+* via cmd, git-bash or any interpretators of 
+* command line get to your project folder
+* Python3 to start the server in command line
+* python -m http.server
+* ==============================================
+* type in your browser    http://127.0.0.1:8000/
+* And start using and manipulating your own database
 
-A complete version of the ["Getting Started"](http://pouchdb.com/getting-started.html) PouchDB todo app.
 
-To check out the code as a Git repository, run this in your shell (without the `$`):
 
-    $ git clone https://github.com/nolanlawson/pouchdb-getting-started-todo.git
-    
-Or to simply download a zip file, click the **Download ZIP** button to the right.
+done with help of PouchDB starting guide and https://www.youtube.com/watch?v=-Z7UF2TuSp0&t=2659s
+by Maksim Verzbitski 
